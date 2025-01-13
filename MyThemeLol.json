@@ -445,6 +445,9 @@
     "background": {
         "url": "https://cdn.discordapp.com/attachments/1186793336066023524/1305172639937073253/j.png?ex=6786703e&is=67851ebe&hm=e0ab8aaaf7def918916f509c5f0fe91c68cbb237382542286991524edc48d41c&"
     },
+	 "fonts":{
+  "FridayNightFunkin-Regular": "https://github.com/LuigiFan1975/Just-a-font/blob/main/FridayNightFunkin-Regular.ttf"
+   },
     "plus": {
         "version": 0,
         "customOverlays": true,
